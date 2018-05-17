@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="criteria_queries_and_sql_end" />
+        <module name="criteria_queries_and_sql_start" />
+        <module name="hql_and_sql_end" />
+        <module name="one_to_many_end_point" />
+        <module name="one_to_many_start" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="criteria_queries_and_sql_end" target="1.5" />
+      <module name="criteria_queries_and_sql_start" target="1.5" />
+      <module name="hql_and_sql_end" target="1.5" />
+      <module name="one_to_many_end_point" target="1.5" />
+      <module name="one_to_many_start" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

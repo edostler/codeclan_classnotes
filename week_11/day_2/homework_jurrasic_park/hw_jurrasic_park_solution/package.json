@@ -1,0 +1,14 @@
+{
+  "name": "hw_jurrasic_park_solution",
+  "version": "1.0.0",
+  "description": "",
+  "main": "park.js",
+  "scripts": {
+    "test": "mocha specs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}

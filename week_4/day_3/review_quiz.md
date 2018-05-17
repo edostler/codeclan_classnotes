@@ -1,0 +1,15 @@
+## Homework Review Quiz
+1. What is the name of the Ruby web framework that we've been using to create web apps? (1)
+2. What do HTTP and URL stand for? (2)
+3. Which HTTP verb is used for retrieving data? (1)
+4. Which two Rs describe the client/server data cycle? (1)
+5. Which component regulates interaction between our models and views? (1)
+6. What might we find stored in 'params'? (1) (0.5 if funny)
+7. How do you make a variable declared in a controller available to a view? (1)
+8. What's the difference between these tags?  
+<%= %> and <% %> (1)
+9. Which keyword do we use in our layout.erb to execute a page template? (1)
+10. A server error might correspond to which status code?(1)
+11. What does JSON stand for and when might we use it? (2, 0.5 extra if funny)
+12. Draw a cycle in the correct order from these terms: [Model, Controller, View, Client]  (1)
+13. Draw an evocative picture to represent our current tech stack from database to webserver (1)

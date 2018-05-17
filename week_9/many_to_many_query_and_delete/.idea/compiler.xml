@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="many_to_many_lab_solution" />
+        <module name="many_to_many_query_and_delete" />
+        <module name="spark_hibernate_hw_start_point" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="many_to_many_lab_solution" target="1.5" />
+      <module name="many_to_many_query_and_delete" target="1.5" />
+      <module name="spark_hibernate_hw_start_point" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

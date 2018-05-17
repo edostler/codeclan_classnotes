@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Big Als</title>
+</head>
+
+<body>
+  <h1>All Artists</h1> {% for artist in all_artists %}
+  <p>{{ artist.name }}</p>
+  <h2>Album List</h2> {% for album in artist.album_set.all %}
+  <p>{{album.title}} - {{album.stock_level}}</p>
+  {% endfor %} {% endfor %}
+</body>
+
+</html>

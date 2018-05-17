@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="one_to_many_start" />
+        <module name="one_to_many_start_point" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="one_to_many_start" target="1.5" />
+      <module name="one_to_many_start_point" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
